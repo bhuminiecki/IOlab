@@ -4,4 +4,4 @@ Changed for pull
 
 Branch changes
 
-Conflict 1
+conflicting change 2
