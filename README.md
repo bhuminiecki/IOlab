@@ -7,3 +7,4 @@ Branch changes
 conflicting change 2
 
 stash change 3
+stash change 2
